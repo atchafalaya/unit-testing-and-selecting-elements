@@ -1,0 +1,52 @@
+Google Search bar:
+
+name = "q"
+
+Selector: body > div.L3eUgb > div.o3j99.ikrT4e.om7nvf > form > div:nth-child(1) > div.A8SBwf > div.RNNXgb > div.SDkEP > div.a4bIc > input
+
+XPath: /html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div[2]/div[2]/input
+
+Google Search is a button
+
+I'm Feeling Lucky is also a button
+
+Google Logo:
+
+Selector: body > div.L3eUgb > div.o3j99.LLD4me.yr19Zb.LS8OJ > div > img
+
+Xpath: /html/body/div[1]/div[2]/div/img
+
+JSPath: document.querySelector("body > div.L3eUgb > div.o3j99.LLD4me.yr19Zb.LS8OJ > div > img")
+
+Amazon:
+
+Login Button Selector: #nav-signin-tooltip > a > span
+
+Login Button Xpath: //*[@id="nav-signin-tooltip"]/a/span
+
+Search Box Selector: id="twotabsearchtextbox"
+
+#twotabsearchtextbox
+
+Search Box XPath: //*[@id="twotabsearchtextbox"]
+
+Enter Wanted:
+
+Header: #app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(1) > input
+MKE:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(2) > input
+Originating Agency Identifier:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(3) > input
+Name:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(4) > input
+Sex:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(5) > input
+Race:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(6) > input
+Height:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(7) > input
+Weight:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(8) > input
+Hair:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(9) > input
+Offense:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(10) > input
+Date of Warrant/Violation:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(11) > input
+Driver's License:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(12) > input
+DL State:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(13) > input
+DL Expiration Date:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(14) > input
+License Plate:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(15) > input
+License State:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(16) > input
+License Year:#app > div.main-container > div > div > table > tbody > tr > td:nth-child(1) > div:nth-child(17) > input
+
